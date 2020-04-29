@@ -14,7 +14,7 @@ subtitle: "The moment you doubt whether you can fly <br> is the day you continue
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am currently pursuing a <strong>Bachelor of Computer Science</strong> degree in Data Science with a minor in Informmation and Computer Science from University of California, Irvine. 
+I am currently pursuing a <strong>Bachelor of Computer Science</strong> degree in Data Science with a minor in Informmation and Computer Science from the University of California, Irvine. 
 </p>
 
 <p class="about-text">
