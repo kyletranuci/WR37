@@ -9,7 +9,7 @@ baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
-baseurl: "/kyletran77.github.io"
+baseurl: "www.kyletran77.github.io"
 
 # Name of website
 title: Kyle Tran
