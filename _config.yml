@@ -27,7 +27,7 @@ description: Portfolio!
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
+    - COVID-19 ML: "https://www.linkedin.com/pulse/great-debate-enough-testing-data-augmentation-machine-kyle-tran/"
   About Me: "aboutme"
   Resume | CV: ""
 #  Tags: "tags"
@@ -99,7 +99,7 @@ url-pretty: "www.kyletran77.github.io"
 disqus: "kyletran"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-84991519-1"
+google_analytics: "UA-164784208-1"
 
 # Google Tag Manager ID
 #gtm: ""
