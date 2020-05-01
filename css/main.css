@@ -146,7 +146,7 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 50px;
+  height: 80px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
@@ -174,7 +174,7 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 50px;
+  width: 75px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
