@@ -5,7 +5,8 @@ tags: [leadership, life]
 image: https://kyletran77.github.io/img/leaderflag.jpg
 share-img: https://kyletran77.github.io/img/leaderflag.jpg
 ---
-Recently, I had a moment of an identity crisis from a milk tea shop. No, no, no, I know what you are thinking....no, I did not get beat up or had some crazy person judge me. Three words were said to me: __“Sorry, we’re closed.” __
+Recently, I had a moment of an identity crisis from a milk tea shop. No, no, no, I know what you are thinking....no, I did not get beat up or had some crazy person judge me. Three words were said to me:
+__“Sorry, we’re closed.” __
 
 I had shown up to the place with my friend at 9:59 p.m, but they closed at 10pm. And I just left. At the moment, I had no care. “All well, we can go somewhere else.” Five minutes later, it had hit me. Why didn’t I say anything back to the worker? They, technically, were not closed. 
 I kept replaying that moment and made excuses for myself saying that I understand that they were tired and wanted to go home.
@@ -16,7 +17,7 @@ Was the tea place the place where I realized what I was a wuss? Maybe I have cha
 
 Wait, I just told you that he wanted me to be a leader, aren’t natural born leaders pricks? Steve Jobs, Bill Gates, Mark Zuckerburg, Tan Hawk, etc. they are known to be the worst people to work with, but they revolutionized the world. So leaders are pricks, right? I watched YouTube videos, read articles and books, and analyzed successful people’s lives. The answer I came up with is...maybe?
 
-What makes someone a natural leader? Typical responses are that they are creative, mean, or lonely. We have heard of the phrase “that it is lonely at the top”- is it the result of being an ass? So many questions, but there are no clear answers.
+What makes someone a natural leader? Typical responses are that they are creative, mean, or lonely. We have heard of the phrase “it is lonely at the top”- is it the result of being an ass? So many questions, but there are no clear answers.
 
 I finally noticed a pattern between them - they did not allow anything or ANYONE to stand in their path. I like to use the analogy that they are like AI programs. If you are not specific on certain parameters, then they will achieve their goal at all cost, regardless of what it takes. For example, you can ask them to find a solution to have world peace. Do you know what they are going to do? They are going to eradicate all species on earth, even humans. Technically, that is world peace...
 
