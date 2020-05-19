@@ -2,7 +2,7 @@
 layout: post
 title: Leader or Meanie
 tags: [leadership, life]
-image: 
+image: https://github.com/kyletran77/kyletran77.github.io/blob/master/img/leaderflag.jpg
 share-img: 
 ---
 
