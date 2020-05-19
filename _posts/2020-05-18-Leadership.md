@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Leader or Meanie
+title: If you are mean, you are a born leader
 tags: [leadership, life]
 image: https://kyletran77.github.io/img/leaderflag.jpg
 share-img: https://kyletran77.github.io/img/leaderflag.jpg
 ---
-
- __If you are mean, you are a born leader__
-
 Recently, I had a moment of an identity crisis from a milk tea shop. No, no, no, I know what you are thinking....no, I did not get beat up or had some crazy person judge me. Three words were said to me: __“Sorry, we’re closed.” __
 
 I had shown up to the place with my friend at 9:59 p.m, but they closed at 10pm. And I just left. At the moment, I had no care. “All well, we can go somewhere else.” Five minutes later, it had hit me. Why didn’t I say anything back to the worker? They, technically, were not closed. 
