@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If you are mean, you are a born leader
+title: If you are mean, you are a born leader?
 tags: [leadership, life]
 image: https://kyletran77.github.io/img/leaderflag.jpg
 share-img: https://kyletran77.github.io/img/leaderflag.jpg
