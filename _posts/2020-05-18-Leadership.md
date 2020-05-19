@@ -3,7 +3,7 @@ layout: post
 title: Leader or Meanie
 tags: [leadership, life]
 image: https://kyletran77.github.io/img/leaderflag.jpg
-share-img: 
+share-img: https://kyletran77.github.io/img/leaderflag.jpg
 ---
 
  __If you are mean, you are a born leader__
