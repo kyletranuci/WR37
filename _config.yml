@@ -12,7 +12,7 @@ baseurl: ""
 baseurl: ""
 
 # Name of website
-title: Kyle Tran
+title: Kyle Tran Writing 37 Portfolio
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -63,35 +63,13 @@ author:
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
-# rss: false
-# email: "someone@example.com"
-  facebook: "kyle.tran.5686"
-  github: kyletran77
-  twitter: OGPickletickle
-# reddit: yourname
-  linkedin: "kyle-tran-3395b2161"
-# xing: yourname
-# stackoverflow: 4590331/anudit-verma
-# snapchat: yourname
-  instagram: "kyle.tr4n"
-# youtube: user/yourname
-# spotify: yourname
-# telephone: +1-(000)-000-0000
-# steam: yourname
-# twitch: yourname
-# yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  google: true
-  linkedin: true
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.kyletran77.github.io"
+url-pretty: "www.kyletranuci.github.io"
 
 # --- Misc --- #
 
